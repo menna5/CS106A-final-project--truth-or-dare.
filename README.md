@@ -1,1 +1,1 @@
-# truth-or-dare
+# CS106A final project - truth or dare.
