@@ -1,6 +1,6 @@
 # CS106A final project - truth or dare.
 
-It's a simple program for the end of CS106A - Cpde in place, stanford course.
+It's a simple program for the end of CS106A - Code in place, stanford course.
 
 I chose a simple program that execute the known Truth or dare? game.
 
